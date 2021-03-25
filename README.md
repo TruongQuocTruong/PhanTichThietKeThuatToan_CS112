@@ -1,5 +1,5 @@
 # CS122.L23.KHCL.N11
-Báo cáo  bài tập nhóm: Tảo biển + Trạm thu phí
+Báo cáo  bài tập nhóm
 # GIỚI THIỆU
   Thành viên nhóm:
     - Trương Quốc Trường
