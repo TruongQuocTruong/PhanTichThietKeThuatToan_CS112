@@ -1,5 +1,5 @@
 # CS122.L23.KHCL.N11
-Báo cáo  bài tập nhóm
+Phan Tich & Thiet Ke Thuat Toan
 # GIỚI THIỆU
   - Thành viên nhóm:
     + Trương Quốc Trường
