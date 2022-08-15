@@ -1,5 +1,5 @@
-# CS122.L23.KHCL.N11
-Phan Tich & Thiet Ke Thuat Toan
+Các assignments và projects môn Phân Tích & Thiết Kế Thuật Toán
+
 # GIỚI THIỆU
   - Thành viên nhóm:
     + Trương Quốc Trường
